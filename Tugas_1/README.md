@@ -142,6 +142,26 @@ void bubbleSort(Node* head) {
 
 ## 📌 Screenshoot Program
 # 1️⃣ Main Menu
-![Main Menu](/img/1.jpg)
+![Main Menu](img/1.jpg)
+# 2️⃣ Menambahkan 6 Laporan Kerusakan
+![Laporan 1](img/2.png)
 
-*(Bagian ini akan ditambahkan nanti)*
+![Laporan 2](img/3.png)
+
+![Laporan 3](img/4.png)
+
+![Laporan 4](img/5.png)
+
+![Laporan 5](img/6.png)
+
+![Laporan 6](img/7.png)
+
+# 3️⃣ Menampilkan Laporan berdasarkan Urutan masuknya Laporan
+![Output 1](img/8.png)
+
+**Pada Menu 3 akan mengoutputkan data laporan yang masuk berdasarkan urutan pelaporan dan belum di buat Partisi**
+
+# 4️⃣ Menampilkan Laporan berdasarkan urutan Prioritas 
+![Output 2](img/9.png)
+
+**Pada Menu 2 Linked List Telah di partisi berdasarkan Value yang telah di tentukan (>=50% Kerusakan) dan juga di Urutkan berdasarkan Fasilitas dengan pengguna terbanyak. Sedangkan untuk Fasilitas dengan kerusakan rendah ( < 50%) maka urutannya sesuai dengan urutan masuknya laporan**
